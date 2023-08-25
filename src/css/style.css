@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first{
+    width: 100%;
+    padding: 20rem;
+    text-align: center;
+    background-image: url(), url(../img/R.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat   
+    
+}
+
+.first h1{
+    font-size: 56px;
+    color: rgb(255, 255, 255);
+    margin: 0px 0px 8px;
+}
+
+.first p{
+    color: white;
+    font-size: 18.4px;
+    margin: 0px 0px 48px;
+}
+
+.first a {
+  font-size: 13.6px;
+  background-color: #f4623a;
+  padding: 20px 36px;
+  color: white;
+  border-radius: 50px
+}
+
+.first2 {
+    width: 100%;
+    padding: 5rem;
+    text-align: center;
+    background-color: #f4623a;
+}
+
+.first2 h2{
+    font-size: 29.75px;
+    margin: 0px 0px 8px;
+    color: white;
+}
+
+.first2 p {
+    font-size: 16px;
+    margin: 0px 0px 24px;
+    color: white;
+}
+
+.first2 a{
+    color: black;
+    font-size: 13.6px;
+    background-color: white;
+    padding: 20px 36px;
+    border-radius: 50px;
+}
+
+.div3 {
+    width: 100%;
+    padding: 10rem;
+    text-align: center;
+    background-color: #212529;
+}
+
+.div3 h2 {
+    font-size: 29.75px;
+    margin: 0px 0px 24px;
+    color: white;
+}
+
+.div3 a {
+    font-size: 13.6px;
+    padding: 20px 36px;
+    border-radius: 50px;
+    background-color: #f8f9fa;
+    color: #212529
+}
+
+.container {
+    width: 100%;
+    padding: 10rem;
+    background-color: white;
+    text-align: center;
+    margin: 100;
+    padding: 10px;
+    box-sizing: border-box;
+    
+}
+.container h2 {
+    font-size: 32px;
+    margin: 0px 0px 8px;
+    color: #212529;
+}
+.container p {
+ color: #6c757d;
+ font-size: 16px;
+ margin: 0px 0px 48px;
+}
+.container form {
+  text-align: left;
+}
+.container label {
+  font-weight: bold;
+}
+.container input, textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+}
+.container button {
+  background-color: rgb(248,153,127);
+  color: white;
+  padding: 10px 100px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
+
+.col {
+    text-align: center !important;
+    padding: 12px;
+}
+
+.footer {
+    margin-bottom: 0 !important;
+    text-align: center !important;
+    padding: 12px;
+}
