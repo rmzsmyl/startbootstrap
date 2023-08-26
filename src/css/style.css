@@ -103,10 +103,11 @@
  margin: 0px 0px 48px;
 }
 .container form {
-
   text-align: center;
-  width: 200px;
-  padding: 8rem;
+  margin-bottom: 30px;
+  margin-left: 750px;
+  margin-right: 750px;
+ 
 }
 .container label {
   font-weight: bold;
